@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MagnoScan</string>
+    <string name="app_subtitle">كاشف المجال المغناطيسي والرادار</string>
+    <string name="status_ready">المستشعر نشط وجاهز</string>
+    <string name="status_no_sensor">الجهاز لا يحتوي على حساس مغناطيسي - نمط المحاكاة مفعل</string>
+    <string name="status_magnet_detected">تم اكتشاف مغناطيس قوي!</string>
+    <string name="status_normal_ambient">مجال طبيعي (بيئة محيطة)</string>
+    <string name="status_elevated">مجال مرتفع (أجهزة إلكترونية)</string>
+    <string name="unit_microtesla">µT</string>
+    <string name="threshold_label">حد التنبيه</string>
+    <string name="btn_calibrate">معايرة الصفر</string>
+    <string name="btn_simulate">محاكاة</string>
+    <string name="tab_gauge">الرادار والعداد</string>
+    <string name="tab_analytics">الرسم البياني</string>
+    <string name="tab_settings">الإعدادات</string>
+</resources>
